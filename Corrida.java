@@ -4,7 +4,7 @@ public class Corrida {
         var carro = new Automovel[2];
 
         // (piloto, marca, modelo)
-        carro[0] = new Automovel("Geovane", "CIVIC", "Hatch");
+        carro[0] = new Automovel("Geovane", "POLO", "2012");
         carro[1] = new Automovel("Piloto2", "COOPER", "Mini");
 
         boolean corridaFinalizada = false;
